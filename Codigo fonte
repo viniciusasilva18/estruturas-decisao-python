@@ -1,0 +1,11 @@
+Exercício: Verificar se o número é positivo, negativo ou zero
+
+Entrada de dados
+numero = float(input("Digite um número: "))
+ Estrutura de decisão
+if numero > 0:
+    print("Número positivo")
+elif numero < 0:
+    print("Número negativo")
+else:
+    print("Zero")
